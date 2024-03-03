@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gourish-naik
-- 📫 How to reach me ...
 # 💫 About Me:
+👋 Hi, I’m @gourish-naik 📫 How to reach me ...
 🔭 I’m currently working on ...<br>👀 I’m interested in Web-Developmnt<br>👯 I’m looking to collaborate on  MERN Stack <br>🤝 I’m looking for help with Backent-Frameworks <br>🌱 I’m currently learning ...<br>💬 Ask me about CSS <br>⚡ Fun fact
 
 
