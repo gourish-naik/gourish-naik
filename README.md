@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gourishankar Naik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineer | Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat" alt="gourish-naik" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce]
 
-- 🌱 I’m currently learning **NEXTJS | Ruby | CCNA**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 🤝 I’m looking for suggestions in  **Backend Frameworks**
+<!--- 🤝 I’m looking for suggestions in  **Backend Frameworks**-->
 
-- 💬 Ask me about **HTML | CSS | SCSS | LESS | React | JS | Tailwind**
+- 💬 Ask me about **HTML | CSS | SCSS | LESS | JS | ReactJS | Tailwind | NextJS**
 
 - 📫 How to reach me **m.gourishankarnaik@gmail.com**
 
