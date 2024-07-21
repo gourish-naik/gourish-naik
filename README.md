@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/i-gourish/" rel="noreferrer" target="_blank">
-      <img src="[https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat](https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr)" alt="gourish-naik" /> 
+      <img src="https://media.licdn.com/dms/image/D4D0EAQHWrV2iNDU…eta&t=VZHFyoVZWTBSKnJSfP_qjVZu6ykwTi6xkKKc73XKD6E" alt="gourish-naik" /> 
     </a>
 </p>
 
