@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/i-gourish/" rel="noreferrer" target="_blank">
-      <img src="[https://media.licdn.com/dms/image/D4D0EAQHWrV2iNDU…eta&t=VZHFyoVZWTBSKnJSfP_qjVZu6ykwTi6xkKKc73XKD6E](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png)" alt="gourish-naik" /> 
+      <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="gourish-naik" /> 
     </a>
 </p>
 
