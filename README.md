@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourishankar Naik</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat" alt="gourish-naik" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat" alt="gourish-naik" /> </p> -->
 
 - 🔭 I’m currently working on [E-Commerce]
 
@@ -19,6 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/i-gourish/" rel="noreferrer" target="_blank">
+      <img src="[https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat](https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr)" alt="gourish-naik" /> 
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
