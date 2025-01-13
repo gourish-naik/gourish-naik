@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourish-naik&label=Profile%20views&color=0e75b6&style=flat" alt="gourish-naik" /> </p> -->
 
-- 🔭 I’m currently working on [E-Commerce]
+- 🔭 I’m currently working in [E-Commerce]
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
